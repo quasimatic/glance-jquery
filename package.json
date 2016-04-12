@@ -1,0 +1,23 @@
+{
+  "name": "glance-jquery",
+  "version": "0.0.1",
+  "description": "Use glance with jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quasimatic/glance-jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quasimatic/glance-jquery/issues"
+  },
+  "homepage": "https://github.com/quasimatic/glance-jquery#readme",
+  "devDependencies": {
+    "glance-selector": "^0.1.0",
+    "jquery": "^2.2.3"
+  }
+}
