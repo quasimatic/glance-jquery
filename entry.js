@@ -15,3 +15,5 @@ window.$glance.addCustomLabels = function (labels) {
 window.$glance.setLogLevel = function (level) {
     glanceSelector.setLogLevel(level);
 }
+
+window.$glance.jQuery = $;
